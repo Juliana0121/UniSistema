@@ -102,13 +102,14 @@ La segunda normalización lo que hace es que ayuda a eliminar la redundancia y o
 ### Tercera Forma Normal
 La tercera normalización lo que hace o su objetivo principal es eliminar cualquier dependencia transitiva en una base de datos. Esto quiere dcir que ademas de cumplir con las condiciones de la primera y segunda forma normal, tambien se asegura de que los atributos no dependan de otros atributos que no sean llaves primarias.
 
-![tercera_forma](https://github.com/user-attachments/assets/fd81fa8c-22d2-48e6-8492-e782ef742317)
+![33](https://github.com/user-attachments/assets/899d9c8f-463a-4797-9044-d6baee92611c)
+
 
 
 
 ## Diagrama Modelo Relacional
 
-![UML_ER](https://github.com/user-attachments/assets/bfb1f320-a63c-4352-ba02-d537c2339a25)
+![DIAGRAMA_RELACIONAL](https://github.com/user-attachments/assets/4dc4fb02-4fa4-4e43-81da-fe7bf7d9d2f5)
 
 Este diagrama representa un diseño detallado y estructurado de una base de datos relacional con múltiples entidades interrelacionadas.
 
